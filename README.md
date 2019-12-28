@@ -10,3 +10,4 @@ This repository contains my all guided projects:
 5. Probability and Statistic : Building Spam Filter Model Using Naive Bayes
 6. Hypothesis Testing : Basic hypothesis testing on jeopardy
 7. Statistics Intermediate(Averages and Variability):Best Market analysis to launch e-learning courses
+8. Machine Learning Fundamentals : Car Predicting using KNN model
