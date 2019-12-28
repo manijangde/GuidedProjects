@@ -12,4 +12,4 @@ This repository contains my all guided projects:
 7. Statistics Intermediate(Averages and Variability):Best Market analysis to launch e-learning courses
 8. Machine Learning Fundamentals : Car Price Prediction using KNN model
 9. Machine Learning Fundamentals : Bike Renting Prediction
-10 Deep Learning Fundamentals : Digit Image Data
+10. Deep Learning Fundamentals : Digit Image Data
